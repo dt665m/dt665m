@@ -1,4 +1,4 @@
-![rust](https://img.shields.io/badge/-Rust-55555?style=flat&logo=Rust&logoColor=000000)
+![rust](https://img.shields.io/badge/-Rust-555555?style=flat&logo=Rust&logoColor=000000)
 ![go](https://img.shields.io/badge/-Go-555555?style=flat&logo=Go&logoColor=00ADD8)
 ![typescript](https://img.shields.io/badge/-Typescript-555555?style=flat&logo=Typescript&logoColor=3178C6)
 ![substrate](https://img.shields.io/badge/-Substrate-555555?style=flat&logo=Parity-Substrate&logoColor=FFFFFF)
