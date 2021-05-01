@@ -10,7 +10,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dt665m&show_icons=true&theme=highcontrast)
 
-# Interests
+# I'm passionate about...
 
 - Distributed Networks
 - Blockchain
